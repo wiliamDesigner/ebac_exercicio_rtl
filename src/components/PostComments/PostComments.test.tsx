@@ -1,5 +1,5 @@
 import { fireEvent, render, screen } from '@testing-library/react';
-import PostComments from '../Post'; 
+import PostComments from '../PostComments'; 
 
 describe('Teste para o componente PostComment', () => {
 it('Deve adicionar dois comentários corretamente', () => {
